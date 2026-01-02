@@ -1,24 +1,10 @@
----
-language: en
-license: apache-2.0
-pipeline_tag: time-series-forecasting
-tags:
-  - time-series
-  - forecasting
-  - causal-inference
-  - temporal-transformers
-  - uncertainty-estimation
-  - explainable-ai
-model_name: ChronoMind-Ω
----
-
-# ChronoMind-Ω ⏳🧠
+# ChronoMind-Ω 
 
 **ChronoMind-Ω** is a **Level-5 causal time-series forecasting engine** designed to perform **multi-horizon predictions** with **explainable trend attribution and uncertainty estimation**.
 
 It fuses **temporal transformer modeling**, **causal inference**, **regime change detection**, and **confidence interval modeling** into a single, research-grade forecasting system.
 
----
+
 
 ## 🚀 Key Capabilities
 
@@ -30,7 +16,7 @@ It fuses **temporal transformer modeling**, **causal inference**, **regime chang
 - 🧩 Explainable Trend Attribution  
 - 🤗 Hugging Face–Ready (`time-series-forecasting`)
 
----
+
 
 ## 🧠 System Architecture
 
@@ -52,7 +38,7 @@ Uncertainty & Confidence Intervals
 Trend Attribution Explainer
 ```
 
----
+
 
 ## 📥 Input Format
 
@@ -67,7 +53,7 @@ Trend Attribution Explainer
 }
 ```
 
----
+
 
 ## 📤 Output Format
 
@@ -90,7 +76,7 @@ Trend Attribution Explainer
 }
 ```
 
----
+
 
 ## 🛠️ Installation & Usage
 
@@ -100,7 +86,6 @@ cd chronomind-omega
 python inference.py
 ```
 
----
 
 ## 📁 Project Structure
 
@@ -117,7 +102,7 @@ chronomind-omega/
 └── requirements.txt
 ```
 
----
+
 
 ## 🎯 Use Cases
 
@@ -127,7 +112,7 @@ chronomind-omega/
 - Supply chain forecasting  
 - Causal time-series analysis  
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -141,7 +126,3 @@ chronomind-omega/
 ## 📜 License
 
 Apache License 2.0
-
----
-
-**ChronoMind-Ω represents the fusion of causality and forecasting for next-generation time-series intelligence.**
