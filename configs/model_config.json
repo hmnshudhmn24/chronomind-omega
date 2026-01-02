@@ -1,0 +1,9 @@
+{
+  "input_window": 24,
+  "forecast_horizons": [
+    1,
+    6,
+    12
+  ],
+  "embedding_dim": 64
+}

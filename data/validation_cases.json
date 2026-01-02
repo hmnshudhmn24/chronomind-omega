@@ -1,0 +1,10 @@
+[
+  {
+    "input": [
+      0.3,
+      0.35,
+      0.4
+    ],
+    "expected_trend": "upward"
+  }
+]
